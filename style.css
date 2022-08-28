@@ -1,0 +1,29 @@
+html{
+    text-align: center;
+    font-family: Calibri; 
+    background: #0f111a;
+    color: #FFFFFF;
+}
+textarea{
+    font-family: Calibri;
+    font-size: 24px;
+    color: #FFFFFF;
+    background: #0f111a;
+    }
+button{
+    background: #46111a;
+    color: #FFFFFF; 
+    height: 50px; 
+    width: 100px;
+    font-size: 18px;
+    border: 0;
+    transition: 0.5s;
+    cursor: pointer;
+    position: relative;
+    top: 15px; 
+}
+button:hover{
+    background: #89ddff;
+    color: #000000;
+}
+p{font-size: 24px;}
